@@ -1,0 +1,27 @@
+#Tiffany Moi
+#SoftDev1 pd7
+#HW11 -- Spooky Out Here
+#2017-11-01
+
+h1 {
+    text-align: center;
+    color: #ff9999;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+    border-style: dotted;
+    border-color: #ff6666; 
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: circle;
+}
+h2 {
+    text-align: center;
+    color: #ccccff;
+}
+h3 {
+    text-align: center;
+    color: #ff9966;
+}
